@@ -49,3 +49,9 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.my-style {
+    color: rgb(223, 191, 12);
+    background-color:black;
+    padding: 3px;
+}
